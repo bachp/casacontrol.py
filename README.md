@@ -6,7 +6,7 @@ A small python library that allows to communicate with the Casa Control system h
 usage
 -----
 
-``
+```
 from casacontrol import CasaControl
 
 # sn is the serial number of the base station
@@ -19,4 +19,4 @@ p.pair()
 
 p.on()
 p.off()
-``
+```
